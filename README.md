@@ -9,9 +9,10 @@ I'm Vimesh Shah a Full Stack Developer. I spend most of time learn new things.
 [![Mail Badge](https://img.shields.io/badge/-@__vimesh__shah__-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_vimesh_shah_) 
 [![Mail Badge](https://img.shields.io/badge/-vimesh93-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vimesh93@gmail.com)
 
-- 🔭 I’m currently working as Project Leader
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working as **Project Leader**
+- 🌱 I’m currently learning **React**
 - 📫 How to reach me: vimesh93@gmail.com
+- :paperclip: [My Resume](https://github.com/vimesh-shah/Resume/blob/master/Vimesh%20Shah%20Resume.pdf)
 
 #### Top Technologies
 
