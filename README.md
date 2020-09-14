@@ -12,7 +12,7 @@ I'm Vimesh Shah a Full Stack Developer. I spend most of time learn new things.
 - 🔭 I’m currently working as **Project Leader**
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me: vimesh93@gmail.com
-- :paperclip: [My Resume](https://github.com/vimesh-shah/Resume/blob/master/Vimesh%20Shah%20Resume.pdf)
+- :paperclip: [My Resume](https://github.com/vimesh-shah/Resume/raw/master/Vimesh%20Shah%20Resume.pdf)
 
 #### Top Technologies
 
